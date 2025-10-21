@@ -8,3 +8,6 @@
 [submodule "mddmaps"]
 	path = mddmaps
 	url = https://github.com/cran/mddmaps
+[submodule "rosario"]
+	path = rosario
+	url = https://github.com/alrobles/rosario
