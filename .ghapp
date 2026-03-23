@@ -1,0 +1,10 @@
+{
+  "id": 117384392,
+  "created_at": "2026-03-18T19:33:15.000Z",
+  "repository_selection": "selected",
+  "permissions": {
+    "metadata": "read",
+    "statuses": "write"
+  },
+  "repositories": ["lkj", "ucminfcpp", "r-universe.dev"]
+}
