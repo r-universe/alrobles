@@ -11,3 +11,6 @@
 [submodule "rosario"]
 	path = rosario
 	url = https://github.com/alrobles/rosario
+[submodule "ucminfcpp"]
+	path = ucminfcpp
+	url = https://github.com/alrobles/ucminfcpp
