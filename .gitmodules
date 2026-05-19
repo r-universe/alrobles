@@ -5,12 +5,18 @@
 [submodule "cofid"]
 	path = cofid
 	url = https://github.com/alrobles/cofid
+[submodule "maxentcpp"]
+	path = maxentcpp
+	url = https://github.com/alrobles/maxentcpp
 [submodule "mddmaps"]
 	path = mddmaps
 	url = https://github.com/cran/mddmaps
 [submodule "rosario"]
 	path = rosario
 	url = https://github.com/alrobles/rosario
+[submodule "sobol"]
+	path = sobol
+	url = https://github.com/alrobles/sobol
 [submodule "ucminfcpp"]
 	path = ucminfcpp
 	url = https://github.com/alrobles/ucminfcpp
