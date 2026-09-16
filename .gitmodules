@@ -20,3 +20,6 @@
 [submodule "ucminfcpp"]
 	path = ucminfcpp
 	url = https://github.com/alrobles/ucminfcpp
+[submodule "xnicher"]
+	path = xnicher
+	url = https://github.com/alrobles/xnicher
