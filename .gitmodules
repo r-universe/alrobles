@@ -5,6 +5,9 @@
 [submodule "cofid"]
 	path = cofid
 	url = https://github.com/alrobles/cofid
+[submodule "genoaligner"]
+	path = genoaligner
+	url = https://github.com/alrobles/genoaligner-r
 [submodule "maxentcpp"]
 	path = maxentcpp
 	url = https://github.com/alrobles/maxentcpp
