@@ -26,3 +26,6 @@
 [submodule "xnicher"]
 	path = xnicher
 	url = https://github.com/alrobles/xnicher
+[submodule "xplus"]
+	path = xplus
+	url = https://github.com/alrobles/xplus
