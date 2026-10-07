@@ -23,6 +23,9 @@
 [submodule "ucminfcpp"]
 	path = ucminfcpp
 	url = https://github.com/alrobles/ucminfcpp
+[submodule "xbioclim"]
+	path = xbioclim
+	url = https://github.com/alrobles/xbioclim
 [submodule "xnicher"]
 	path = xnicher
 	url = https://github.com/alrobles/xnicher
